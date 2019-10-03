@@ -1,0 +1,2 @@
+# serlverlessdemo_objectstorage_pre-auth
+serlverlessdemo_objectstorage_pre-auth
