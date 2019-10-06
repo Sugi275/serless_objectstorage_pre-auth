@@ -11,7 +11,7 @@ import (
 	"github.com/oracle/oci-go-sdk/common"
 	"github.com/oracle/oci-go-sdk/common/auth"
 	"github.com/oracle/oci-go-sdk/objectstorage"
-	"github.com/Sugi275/serlverlessdemo_objectstorage_pre-auth/loglib"
+	"github.com/Sugi275/serless_objectstorage_pre-auth/loglib"
 	fdk "github.com/fnproject/fdk-go"
 )
 
